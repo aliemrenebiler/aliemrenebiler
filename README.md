@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliemrenebiler
+👋 Hi, I’m @aliemrenebiler
 
 THIS README IS UNDER CONSTRUCTION!
 
